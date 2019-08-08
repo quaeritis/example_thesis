@@ -1,0 +1,11 @@
+= Template for Writing an eBook
+
+This is a new version of the classic template for eBooks. You can use this
+code to kickstart your writing project from scratch.
+
+based on the great https://github.com/akosma/eBook-Template[template by akosma].
+
+== License
+
+See the LICENSE.adoc file.
+
